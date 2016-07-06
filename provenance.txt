@@ -1,0 +1,39 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: treehorn-spring-rest-microservice
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: treehorn-spring-rest-microservice
+Branch: master
+Path (within repo): 
+sha: c63a4f3aaeb939acdbba010f553fbff480869769
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.example.vehicleInfo'
+team-id='T1KHULA3E'
+name='vehicle-info'
+template='treehorn-spring-rest-microservice'
+user-id='U1NQ01HNX'
+group_id='com.example.vehicleInfo'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='vehicle-info'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='06 07 2016 '
+configuration_class_name='VehicleInfoConfiguration'
+package_path='com/example/vehicleInfo'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+application_name='VehicleInfo'
+containerless_web_integration_test_name='VehicleInfoOutOfContainerIntegrationTests'
+application_class_name='VehicleInfoApplication'
+startup_test_name='VehicleInfoApplicationTests'
+web_integration_test_name='VehicleInfoWebIntegrationTests'
+creation_date='Wed Jul 06 2016 10:30:02 GMT+0000 (UTC)'
